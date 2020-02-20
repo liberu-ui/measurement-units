@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/measurement-units",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Basic measurement units package",
   "main": "src/bulma/pages/administration/measurementUnits/Index.vue",
   "scripts": {
