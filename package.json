@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/enso-ui/measurement-units#readme",
   "dependencies": {
-    "@enso-ui/forms": "1.4.x",
-    "@enso-ui/tables": "1.4.x",
+    "@enso-ui/forms": "^2.0",
+    "@enso-ui/tables": "^2.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.2.0",
     "vue": "^2.5.16",
