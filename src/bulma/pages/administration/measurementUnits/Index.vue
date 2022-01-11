@@ -12,6 +12,3 @@ export default {
     components: { EnsoTable },
 };
 </script>
-
-<style lang="scss">
-</style>

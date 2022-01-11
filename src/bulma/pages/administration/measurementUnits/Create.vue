@@ -15,6 +15,3 @@ export default {
     components: { EnsoForm },
 };
 </script>
-
-<style lang="scss">
-</style>
