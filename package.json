@@ -1,5 +1,5 @@
 {
-  "name": "@enso-ui/measurement-units",
+  "name": "@cgdsoftware/measurement-units",
   "version": "5.0.1",
   "description": "Basic measurement units package",
   "main": "src/bulma/pages/administration/measurementUnits/Index.vue",
@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/enso-ui/measurement-units#readme",
   "dependencies": {
-    "@enso-ui/forms": "^3.0",
-    "@enso-ui/tables": "^3.0",
-    "@enso-ui/ui": "^6.0",
+    "@cgdsoftware/forms": "^3.0",
+    "@cgdsoftware/tables": "^3.0",
+    "@cgdsoftware/ui": "^6.0",
     "@fortawesome/fontawesome-svg-core": "^1.2.2",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "vue": "^3.0",
