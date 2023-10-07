@@ -1,6 +1,6 @@
 {
   "name": "@liberu-ui/measurement-units",
-  "version": "5.0.6",
+  "version": "5.0.7",
   "description": "Basic measurement units package",
   "main": "src/bulma/pages/administration/measurementUnits/Index.vue",
   "scripts": {
